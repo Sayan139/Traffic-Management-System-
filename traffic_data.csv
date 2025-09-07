@@ -1,0 +1,3 @@
+timestamp,track_id,class,line_crossed,priority_status,speed_estimate,lane_wait_time,bbox_x1,bbox_y1,bbox_x2,bbox_y2
+2025-09-07 19:23:43.826691,1,car,line1,allowed,1.0,10.294848,298,174,347,244
+2025-09-07 19:23:48.142197,15,car,line2,blocked,5.8309518948453,6.016614,457,213,539,305
